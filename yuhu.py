@@ -1,8 +1,8 @@
 import os, sys
 
 print ("\033[1;33m")
-Username = 'MrOyek'
-Password = 'GuaGansThx'
+Username = 'Oyek'
+Password = 'ICA'
 
 def restart():
 	relog = sys.executable
